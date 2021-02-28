@@ -11,7 +11,7 @@ The following picture illustrates the database's structure:
 
 ## Tasks
 
-1. Fork this repo and clone it on the lambda server.
+1. Fork this repo and clone it on the lambda server!
 
    Notice that this repo uses [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
    These are a tool that allow us to work with very complicated projects by including git repos within other git repos,
@@ -42,4 +42,4 @@ The following picture illustrates the database's structure:
        ```
        $ docker-compose exec pg ./check_answers.sh
        ```
-1. Upload a link to your forked github repo on sakai.
+1. Upload a link to your forked github repo on sakai,make sure the badge is green.
